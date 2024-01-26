@@ -1,3 +1,4 @@
+# Updated README
 <img src="https://user-images.githubusercontent.com/576385/156254208-f5b743a9-88cf-439d-b0c0-923d53e8d551.png" alt="{fmt}" width="25%"/>
 
 [![image](https://github.com/fmtlib/fmt/workflows/linux/badge.svg)](https://github.com/fmtlib/fmt/actions?query=workflow%3Alinux)
